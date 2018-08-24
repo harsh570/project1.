@@ -1,2 +1,3 @@
-# project1.
-it is all about learning of python.simple game
+# save your Gotham
+#learn about python
+#basic concept of GUI
